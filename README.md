@@ -29,6 +29,6 @@ http://localhost:3000/animais/2
 
 http://localhost:3000/animais/3
 
-Para execução com https precisa da execução e geração de key com OPENSSL em sua máquina, para fácil e rápi teste basta baixar e possuir node, instalar as dependencias express e node-cache.
+Para execução com https precisa da execução e geração de key com OPENSSL em sua máquina, para fácil e rápido teste basta baixar e possuir node, instalar as dependencias express e node-cache.
 
 
